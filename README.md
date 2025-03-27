@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently an IT Co-Op (Cloud Engineer) at Aflac<br>👯 I’m looking to collaborate on new software technologies to develop the future<br>🤝 I’m looking for help to use technology to build a business<br>🌱 I’m currently learning Vite React and Next.js  framework<br>💬 Ask me about ASP .NET MVC<br>⚡ Fun fact - I love fishing and going to the beach
+🔭 I’m currently an Cloud Engineer Co-Op at Aflac<br>👯 I’m looking to collaborate on new software technologies to develop the future<br>🤝 I’m looking for help to use technology to build a business<br>🌱 I’m currently learning Vite React and Next.js  framework<br>💬 Ask me about ASP .NET MVC<br>⚡ Fun fact - I love fishing and going to the beach
 
 
 ## 🌐 Socials:
